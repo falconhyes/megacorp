@@ -1,7 +1,4 @@
 partner list
-<<<<<<< HEAD
 SalesInc
-=======
-
->>>>>>> 35e3f95 (F: delete those records)
 TheStartup
+ClosedML
